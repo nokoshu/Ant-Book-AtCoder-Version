@@ -1,0 +1,185 @@
+,,,,,,,,
+,AtCoder版蟻本（初級編チェックリスト）,,,,,,,
+,問題ID,問題分類,問題タイトル,難易度,状況,要復習フラグ,更新日,問題URL
+,1,その他,ダーツ,難,完了,要,2021/1/6,リンク
+,2,その他,2点間距離の最大値,易,完了,-,2021/1/4,https://atcoder.jp/contests/arc004/tasks/arc004_1
+,3,その他,Sum of Three Integers,易,完了,-,2021/1/4,https://atcoder.jp/contests/abc051/tasks/abc051_b
+,4,その他,Otoshidama　,易,完了,-,2021/1/4,https://atcoder.jp/contests/abc085/tasks/abc085_c
+,5,その他,Making Triangle,易,完了,-,2021/1/5,https://atcoder.jp/contests/abc175/tasks/abc175_b
+,6,その他,Ants,難,完了,-,2021/1/5,http://poj.org/problem?id=1852
+,7,全探索,たくさんの数式,普,完了,要,2021/1/5,https://atcoder.jp/contests/arc061/tasks/arc061_a
+,8,全探索,Train Ticket,,,,,https://atcoder.jp/contests/abc079/tasks/abc079_c
+,9,全探索,All Green,,,,,https://atcoder.jp/contests/abc104/tasks/abc104_c
+,10,全探索,高橋くんとお肉,,,,,https://atcoder.jp/contests/arc029/tasks/arc029_1
+,11,全探索,派閥,普,完了,要,2021/1/10,https://atcoder.jp/contests/abc002/tasks/abc002_4
+,12,全探索,深さ優先探索,易,完了,-,2021/1/10,https://atcoder.jp/contests/atc001/tasks/dfs_a
+,13,全探索,埋め立て,,,,,https://atcoder.jp/contests/arc031/tasks/arc031_2
+,14,全探索,バウムテスト,,,,,https://atcoder.jp/contests/arc037/tasks/arc037_b
+,15,全探索,島はいくつある,易,完了,-,2021/1/10,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1160&lang=jp
+,16,全探索,幅優先探索,易,完了,,2021/1/11,https://atcoder.jp/contests/abc007/tasks/abc007_3
+,17,全探索,チーズ,,,,,https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e
+,18,全探索,Grid Repainting,,,,,https://atcoder.jp/contests/abc088/tasks/abc088_d
+,19,全探索,Darker and Darker,,,,,https://atcoder.jp/contests/agc033/tasks/agc033_a
+,20,全探索,器物損壊！高橋くん,,,,,https://atcoder.jp/contests/arc005/tasks/arc005_3
+,21,全探索,Cup,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0503
+,22,全探索,One-stroke Path,,,,,https://atcoder.jp/contests/abc054/tasks/abc054_c
+,23,全探索,カード並べ,,,,,https://atcoder.jp/contests/joi2010yo/tasks/joi2010yo_d
+,24,全探索,カードゲーム,,,,,https://yukicoder.me/problems/199
+,25,貪欲法,おつり,易,完了,-,2021/1/5,https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_a
+,26,貪欲法,コイン問題,普,完了,要,2021/1/5,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_A&lang=jp
+,27,貪欲法,Robot Arms,普,完了,要,2021/1/5,https://atcoder.jp/contests/keyence2020/tasks/keyence2020_b
+,28,貪欲法,Islands War,普,完了,要,2021/1/9,https://atcoder.jp/contests/abc103/tasks/abc103_d
+,29,貪欲法,Clique Problem,普,完了,要,2021/1/9,http://codeforces.com/contest/528/problem/B
+,30,貪欲法,プレゼント,,,,,https://atcoder.jp/contests/abc038/tasks/abc038_d
+,31,貪欲法,Dubious Document,,,,,https://atcoder.jp/contests/abc076/tasks/abc076_c
+,32,貪欲法,辞書式順序,,,,,https://atcoder.jp/contests/abc007/tasks/abc007_2
+,33,貪欲法,辞書式順序ふたたび,,,,,https://atcoder.jp/contests/abc009/tasks/abc009_3
+,34,貪欲法,Multiple Gift,,,,,https://atcoder.jp/contests/abc083/tasks/arc088_a
+,35,貪欲法,積み重ね,,,,,https://atcoder.jp/contests/arc006/tasks/arc006_3
+,36,貪欲法,美味しいたこ焼きの売り方,,,,,https://atcoder.jp/contests/abc005/tasks/abc005_3
+,37,貪欲法,Easy TomekPhone,,,,,https://community.topcoder.com/stat?c=problem_statement&pm=12296
+,38,貪欲法,Plane 2N Points,,,,,https://atcoder.jp/contests/abc091/tasks/arc092_a
+,39,貪欲法,Appleman and Toastman,,,,,http://codeforces.com/contest/462/problem/C
+,40,ナップサック DP,ナップザック問題,易,完了,-,2021/1/9,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=jp
+,41,ナップサック DP,コンテスト,易,,要,2021/1/9,https://atcoder.jp/contests/tdpc/tasks/tdpc_contest
+,42,ナップサック DP,サイコロ,難,,要,,https://atcoder.jp/contests/tdpc/tasks/tdpc_dice
+,43,ナップサック DP,高橋くんの苦悩,,,,,https://atcoder.jp/contests/abc015/tasks/abc015_4
+,44,ナップサック DP,暑い日々,難,完了,-,2021/1/11,https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d
+,45,ナップサック DP,E数,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_number
+,46,ナップサック DP,ナップサック問題,,,,,https://atcoder.jp/contests/abc032/tasks/abc032_d
+,47,ナップサック DP,高橋君ゲーム,,,,,https://atcoder.jp/contests/arc057/tasks/arc057_b
+,48,ナップサック DP,Complexity　,,,,,https://atcoder.jp/contests/agc033/tasks/agc033_d
+,49,LCS,Longest Common Subsequence　,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_C&lang=jp
+,50,LCS,Edit Distance (Levenshtein Distance)　,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_E&lang=jp
+,51,LCS,Optimal Recommendations　,,,,,https://atcoder.jp/contests/indeednow-finala-open/tasks/indeednow_2015_finala_c
+,52,個数制限なしナップサック問題,ナップザック問題,易,完了,-,2021/1/11,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_C&lang=jp
+,53,個数制限なしナップサック問題,Crested Ibis vs Monster,,,,,https://atcoder.jp/contests/abc153/tasks/abc153_e
+,54,個数制限なしナップサック問題,VOCAL ANDROID,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2502
+,55,個数制限付き部分和問題,Many Go Round,,,,,https://atcoder.jp/contests/maximum-cup-2018/tasks/maximum_cup_2018_d
+,56,個数制限付き部分和問題,フクロモモンガ,,,,,https://atcoder.jp/contests/joi2014ho/tasks/joi2014ho4
+,57,個数制限付き部分和問題,Bichrome Tree,,,,,https://atcoder.jp/contests/arc083/tasks/arc083_c
+,58,個数制限付き部分和問題,注文の多い高橋商店　,,,,,https://atcoder.jp/contests/arc028/tasks/arc028_4
+,59,LIS,LIS,,,,,https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_h
+,60,LIS,トランプ挿入ソート,,,,,https://atcoder.jp/contests/abc006/tasks/abc006_4
+,61,LIS,プレゼント,,,,,https://atcoder.jp/contests/abc038/tasks/abc038_d
+,62,LIS,ターゲット,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_target
+,63,LIS,マリョーシカ人形,,,,,https://atcoder.jp/contests/joisc2016/tasks/joisc2016_a
+,64,分割数,見栄っ張りの募金活動,,,,,https://yukicoder.me/problems/no/269
+,65,分割数,Kill/Death,,,,,https://atcoder.jp/contests/dwacon2018-prelims/tasks/dwacon2018_prelims_c
+,66,分割数,ビンゴ,,,,,https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_f
+,67,重複組合せ,Factorization,,,,,https://atcoder.jp/contests/abc110/tasks/abc110_d
+,68,重複組合せ,多重ループ,,,,,https://atcoder.jp/contests/abc021/tasks/abc021_d
+,69,重複組合せ,表現の自由,,,,,https://atcoder.jp/contests/arc004/tasks/arc004_4
+,70,ゲームDP,ゲーム,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_game
+,71,ゲームDP,双子と⚪︎×ゲーム,,,,,https://atcoder.jp/contests/abc025/tasks/abc025_c
+,72,ゲームDP,ABS,,,,,https://atcoder.jp/contests/arc085/tasks/arc085_b
+,73,区間DP,イゥイ,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_iwi
+,74,区間DP,刺身,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2415
+,75,区間DP,最適２分探索木,,,,,https://atcoder.jp/contests/atc002/tasks/atc002_c
+,76,ツリー木,塗り絵,,,,,https://atcoder.jp/contests/abc036/tasks/abc036_d
+,77,ツリー木,Transit Tree Path,,,,,https://atcoder.jp/contests/abc070/tasks/abc070_d
+,78,ツリー木,N木,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_tree
+,79,ツリー木,うなぎ,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_eel
+,80,ツリー木,BichromeTree,,,,,https://atcoder.jp/contests/arc083/tasks/arc083_c
+,81,DAG DP,閉路,,,,,https://atcoder.jp/contests/abc037/tasks/abc037_d
+,82,DAG DP,最悪の記者,,,,,https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_d
+,83,,,,,,,
+,84,,,,,,,
+,85,,,,,,,
+,86,,,,,,,
+,87,,,,,,,
+,88,,,,,,,
+,89,,,,,,,
+,90,,,,,,,
+,91,,,,,,,
+,92,,,,,,,
+,93,,,,,,,
+,94,,,,,,,
+,95,,,,,,,
+,96,,,,,,,
+,97,,,,,,,
+,98,,,,,,,
+,99,,,,,,,
+,100,,,,,,,
+,101,,,,,,,
+,102,優先度つきQueue,Expedition,,,,,http://poj.org/problem?id=2431
+,103,優先度つきQueue,Factory,,,,,https://atcoder.jp/contests/code-thanks-festival-2017-open/tasks/code_thanks_festival_2017_c
+,104,優先度つきQueue,3N Numbers,,,,,https://atcoder.jp/contests/arc074/tasks/arc074_b
+,105,優先度つきQueue,ダンジョン　,,,,,https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_e
+,106,2分木探索,Kagami Mochi,易,完了,-,2021/1/23,https://atcoder.jp/contests/abc085/tasks/abc085_b
+,107,2分木探索,Two Colors Card Game　,易,完了,-,2021/1/24,https://atcoder.jp/contests/abc091/tasks/abc091_b
+,108,Union-Find,Union Find,,,,,http://poj.org/problem?id=1182
+,109,Union-Find,連結,,,,,https://atcoder.jp/contests/atc001/tasks/unionfind_a
+,110,Union-Find,Equals,,,,,https://atcoder.jp/contests/abc049/tasks/arc065_b
+,111,Union-Find,偶数メートル,,,,,https://atcoder.jp/contests/arc097/tasks/arc097_b
+,112,Union-Find,People on a line,,,,,https://atcoder.jp/contests/arc036/tasks/arc036_d
+,113,Union-Find,Union Sets,,,,,https://atcoder.jp/contests/arc090/tasks/arc090_b
+,114,Union-Find,国のお祭り事情,,,,,https://atcoder.jp/contests/code-thanks-festival-2017-open/tasks/code_thanks_festival_2017_h
+,115,,,,,,,https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho5
+,116,,,,,,,
+,117,,,,,,,
+,118,,,,,,,
+,119,,,,,,,
+,120,,,,,,,
+,121,,,,,,,
+,122,,,,,,,
+,123,,,,,,,
+,124,,,,,,,
+,125,,,,,,,
+,126,,,,,,,
+,127,,,,,,,
+,128,,,,,,,
+,129,,,,,,,
+,130,,,,,,,
+,131,,,,,,,
+,132,,,,,,,
+,133,,,,,,,
+,134,,,,,,,
+,135,,,,,,,
+,136,,,,,,,
+,137,,,,,,,
+,138,,,,,,,
+,139,,,,,,,
+,140,,,,,,,
+,141,,,,,,,
+,142,,,,,,,
+,143,,,,,,,
+,144,,,,,,,
+,145,,,,,,,
+,146,,,,,,,
+,147,,,,,,,
+,148,,,,,,,
+,149,,,,,,,
+,150,,,,,,,
+,151,,,,,,,
+,152,,,,,,,
+,153,,,,,,,
+,154,,,,,,,
+,155,,,,,,,
+,156,,,,,,,
+,157,,,,,,,
+,158,,,,,,,
+,159,,,,,,,
+,160,,,,,,,
+,161,,,,,,,
+,162,,,,,,,
+,163,,,,,,,
+,164,,,,,,,
+,165,,,,,,,
+,166,,,,,,,
+,167,,,,,,,
+,168,,,,,,,
+,169,,,,,,,
+,170,,,,,,,
+,171,,,,,,,
+,172,,,,,,,
+,173,,,,,,,
+,174,,,,,,,
+,175,,,,,,,
+,176,,,,,,,
+,177,,,,,,,
+,178,,,,,,,
+,179,,,,,,,
+,180,,,,,,,
+,181,,,,,,,
+,182,,,,,,,

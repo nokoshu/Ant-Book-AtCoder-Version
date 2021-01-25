@@ -83,25 +83,25 @@
 ,80,ツリー木,BichromeTree,,,,,https://atcoder.jp/contests/arc083/tasks/arc083_c
 ,81,DAG DP,閉路,,,,,https://atcoder.jp/contests/abc037/tasks/abc037_d
 ,82,DAG DP,最悪の記者,,,,,https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_d
-,83,,,,,,,
-,84,,,,,,,
-,85,,,,,,,
-,86,,,,,,,
-,87,,,,,,,
-,88,,,,,,,
-,89,,,,,,,
-,90,,,,,,,
-,91,,,,,,,
-,92,,,,,,,
-,93,,,,,,,
-,94,,,,,,,
-,95,,,,,,,
-,96,,,,,,,
-,97,,,,,,,
-,98,,,,,,,
-,99,,,,,,,
-,100,,,,,,,
-,101,,,,,,,
+,83,グリッドDP,通学経路,,,,,https://atcoder.jp/contests/joi2007yo/tasks/joi2007yo_f
+,84,グリッドDP,ぴょんぴょん川渡り,,,,,https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_d
+,85,グリッドDP,散歩,,,,,https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_d
+,86,グリッドDP,通勤経路,,,,,https://atcoder.jp/contests/joi2010yo/tasks/joi2010yo_e
+,87,ナップサック DP,最高のピザ,,,,,https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_c
+,88,ナップサック DP,古本屋,,,,,https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho2
+,89,ナップサック DP,ナップザック,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_knapsack
+,90,ナップサック DP,Zabuton,,,,,https://atcoder.jp/contests/cf17-final/tasks/cf17_final_d
+,91,ナップサック DP,僕の友達は小さい,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2333
+,92,部分文字列 DP,Don't Be a Subsequence,,,,,https://atcoder.jp/contests/arc081/tasks/arc081_c
+,93,部分文字列 DP,回文部分列,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2895
+,94,部分文字列 DP,SCNS,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1392
+,95,部分文字列 DP,辞書順,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_lexicographical
+,96,挿入 DP,文字列,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_string
+,97,挿入 DP,天下一コップ,,,,,https://atcoder.jp/contests/tenka1-2015-final-open/tasks/tenka1_2015_final_e
+,98,挿入 DP,座席,,,,,https://atcoder.jp/contests/joi2019yo/tasks/joi2019_yo_f
+,99,挿入 DP,ソリティア,,,,,https://atcoder.jp/contests/joisc2016/tasks/joisc2016_c
+,100,連結性 DP,マス目,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_grid
+,101,きたまさ法,フィボナッチ,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_fibonacci
 ,102,優先度つきQueue,Expedition,,,,,http://poj.org/problem?id=2431
 ,103,優先度つきQueue,Factory,,,,,https://atcoder.jp/contests/code-thanks-festival-2017-open/tasks/code_thanks_festival_2017_c
 ,104,優先度つきQueue,3N Numbers,,,,,https://atcoder.jp/contests/arc074/tasks/arc074_b
@@ -115,18 +115,17 @@
 ,112,Union-Find,People on a line,,,,,https://atcoder.jp/contests/arc036/tasks/arc036_d
 ,113,Union-Find,Union Sets,,,,,https://atcoder.jp/contests/arc090/tasks/arc090_b
 ,114,Union-Find,国のお祭り事情,,,,,https://atcoder.jp/contests/code-thanks-festival-2017-open/tasks/code_thanks_festival_2017_h
-,115,,,,,,,https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho5
-,116,,,,,,,
-,117,,,,,,,
-,118,,,,,,,
-,119,,,,,,,
-,120,,,,,,,
-,121,,,,,,,
-,122,,,,,,,
-,123,,,,,,,
-,124,,,,,,,
-,125,,,,,,,
-,126,,,,,,,
+,115,二部グラフ,Even Relation,,,,,https://atcoder.jp/contests/abc126/tasks/abc126_d
+,116,二部グラフ,3 Steps,,,,,https://atcoder.jp/contests/code-festival-2017-qualb/tasks/code_festival_2017_qualb_c
+,117,二部グラフ,嘘つきな天使たち,,,,,https://atcoder.jp/contests/maximum-cup-2018/tasks/maximum_cup_2018_c
+,118,二部グラフ,辺彩色,,,,,https://atcoder.jp/contests/arc041/tasks/arc041_d
+,119,二部グラフ,RabbitWalking,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2370
+,121,最短路問題,Sabing Snuuk,,,,,https://atcoder.jp/contests/soundhound2018-summer-qual/tasks/soundhound2018_summer_qual_d
+,122,最短路問題,船旅,,,,,https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_f
+,123,最短路問題,トレジャーハント,,,,,https://atcoder.jp/contests/abc035/tasks/abc035_d
+,124,最短路問題,器物破損！高橋くん,,,,,https://atcoder.jp/contests/arc005/tasks/arc005_3
+,125,最短路問題,会場への道,,,,,https://atcoder.jp/contests/wupc2012-closed/tasks/wupc2012_5
+,126,最短経路問題,Small Multiple,,,,,https://atcoder.jp/contests/arc084/tasks/arc084_b
 ,127,,,,,,,
 ,128,,,,,,,
 ,129,,,,,,,

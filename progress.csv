@@ -43,7 +43,7 @@
 ,40,ナップサック DP,ナップザック問題,易,完了,-,2021/1/9,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=jp
 ,41,ナップサック DP,コンテスト,易,完了,要,2021/1/9,https://atcoder.jp/contests/tdpc/tasks/tdpc_contest
 ,42,ナップサック DP,サイコロ,難,完了,要,,https://atcoder.jp/contests/tdpc/tasks/tdpc_dice
-,43,ナップサック DP,高橋くんの苦悩,難,完了,,,https://atcoder.jp/contests/abc015/tasks/abc015_4
+,43,ナップサック DP,高橋くんの苦悩,難,完了,要,,https://atcoder.jp/contests/abc015/tasks/abc015_4
 ,44,ナップサック DP,暑い日々,難,完了,-,2021/1/11,https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d
 ,45,ナップサック DP,E数,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_number
 ,46,ナップサック DP,ナップサック問題,,,,,https://atcoder.jp/contests/abc032/tasks/abc032_d
@@ -126,59 +126,60 @@
 ,124,最短路問題,器物破損！高橋くん,,,,,https://atcoder.jp/contests/arc005/tasks/arc005_3
 ,125,最短路問題,会場への道,,,,,https://atcoder.jp/contests/wupc2012-closed/tasks/wupc2012_5
 ,126,最短経路問題,Small Multiple,,,,,https://atcoder.jp/contests/arc084/tasks/arc084_b
-,127,,,,,,,
-,128,,,,,,,
-,129,,,,,,,
-,130,,,,,,,
-,131,,,,,,,
-,132,,,,,,,
-,133,,,,,,,
-,134,,,,,,,
-,135,,,,,,,
-,136,,,,,,,
-,137,,,,,,,
-,138,,,,,,,
-,139,,,,,,,
-,140,,,,,,,
-,141,,,,,,,
-,142,,,,,,,
-,143,,,,,,,
-,144,,,,,,,
-,145,,,,,,,
-,146,,,,,,,
-,147,,,,,,,
-,148,,,,,,,
-,149,,,,,,,
-,150,,,,,,,
-,151,,,,,,,
-,152,,,,,,,
-,153,,,,,,,
-,154,,,,,,,
-,155,,,,,,,
-,156,,,,,,,
-,157,,,,,,,
-,158,,,,,,,
-,159,,,,,,,
-,160,,,,,,,
-,161,,,,,,,
-,162,,,,,,,
-,163,,,,,,,
-,164,,,,,,,
-,165,,,,,,,
-,166,,,,,,,
-,167,,,,,,,
-,168,,,,,,,
-,169,,,,,,,
-,170,,,,,,,
-,171,,,,,,,
-,172,,,,,,,
-,173,,,,,,,
-,174,,,,,,,
-,175,,,,,,,
-,176,,,,,,,
-,177,,,,,,,
-,178,,,,,,,
-,179,,,,,,,
-,180,,,,,,,
-,181,,,,,,,
-,182,,,,,,,
+,127,最小全域木,Conscription,,,,,http://poj.org/problem?id=3723
+,128,最小全域木,最小全域木,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=jp
+,129,最小全域木,Built?,,,,,https://atcoder.jp/contests/abc065/tasks/arc076_b
+,130,最小全域木,Game on a Grid,,,,,https://atcoder.jp/contests/indeednow-finalb-open/tasks/indeednow_2015_finalb_d
+,131,最小全域木,Median Tree,,,,,https://atcoder.jp/contests/jag2012autumn/tasks/icpc2012autumn_c
+,132,最小全域木,There is No Alaternative,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1350
+,133,最小全域木,魔法の糸,,,,,https://atcoder.jp/contests/utpc2013/tasks/utpc2013_06
+,134,最小全域木,Bichrome Spanning Tree,,,,,https://atcoder.jp/contests/arc093/tasks/arc093_c
+,135,最小全域木,僕は友達が少ない,,,,,https://atcoder.jp/contests/arc018/tasks/arc018_4
+,136,最小全域木,Tree MST,,,,,https://atcoder.jp/contests/cf17-final-open/tasks/cf17_final_j
+,137,牛ゲー,単一始点最短経路,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_B&lang=jp
+,138,牛ゲー,Score Attack,,,,,https://atcoder.jp/contests/abc061/tasks/abc061_d
+,139,牛ゲー,Asteroids2,,,,,https://atcoder.jp/contests/utpc2013/tasks/utpc2013_08
+,140,牛ゲー,何かグラフの問題,,,,,https://atcoder.jp/contests/ttpc2015/tasks/ttpc2015_n
+,141,全頂点間最短経路,バスと避けられない運命,,,,,https://atcoder.jp/contests/abc012/tasks/abc012_4
+,142,全頂点間最短経路,joisino's travel,,,,,https://atcoder.jp/contests/abc073/tasks/abc073_d
+,143,全頂点間最短経路,Wall,,,,,https://atcoder.jp/contests/abc079/tasks/abc079_d
+,144,最大公約数/Euclid互助法,公約数,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0583
+,145,最大公約数/Euclid互助法,Multiple Clocks,,,,,https://atcoder.jp/contests/abc070/tasks/abc070_c
+,146,最大公約数/Euclid互助法,Mysterious Light,,,,,https://atcoder.jp/contests/agc001/tasks/agc001_b
+,147,最大公約数/Euclid互助法,Integer Coords,,,,,https://csacademy.com/contest/round-68/task/integer-coords/
+,148,最大公約数/Euclid互助法,Getting Difference,,,,,https://atcoder.jp/contests/agc018/tasks/agc018_a
+,149,最大公約数/Euclid互助法,最軽量のモビール,,,,,https://atcoder.jp/contests/joi2007ho/tasks/joi2007ho_e
+,150,拡張Euclid互助法,拡張ユークリッドの互助法,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_E&lang=ja
+,151,拡張Euclid互助法,Grouping,,,,,https://atcoder.jp/contests/arc067/tasks/arc067_c
+,152,拡張Euclid互助法,Easy KingXNewCurrency,,,,,https://qiita.com/drken/items/apps.topcoder.com/stat?c=problem_statement&pm=11817&rd=14730
+,153,素数,素数,,,,,https://atcoder.jp/contests/arc017/tasks/arc017_1
+,154,素数,Factors of Factrial,,,,,https://atcoder.jp/contests/abc052/tasks/arc067_a
+,155,素数,Factorization,,,,,https://atcoder.jp/contests/abc110/tasks/abc110_d
+,156,素数,与えられた数より小さい素数の個数について,,,,,https://atcoder.jp/contests/tenka1-2012-qualc/tasks/tenka1_2012_9
+,157,素数,Number,,,,,https://atcoder.jp/contests/abc084/tasks/abc084_d
+,158,素数,素数,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=0009&lang=jp
+,159,素数,FareySequence,,,,,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2286
+,160,素数,エラトステネスの篩,,,,,https://algo-method.com/tasks/332
+,161,素数,Prime-Factor Prime,,,,,https://atcoder.jp/contests/jag2017autumn/tasks/jag2017autumn_c
+,162,その他,Carmichael Numbers,,,,,https://qiita.com/drken/items/e77685614f3c6bf86f44
+,163,その他,フェルマー方程式,,,,,https://atcoder.jp/contests/joisc2007/tasks/joisc2007_fermat
+,164,その他,Problem,,,,,https://atcoder.jp/contests/arc020/tasks/arc020_3
+,165,その他,Identity Function,,,,,https://atcoder.jp/contests/jag2015summer-day4/tasks/icpc2015summer_day4_d
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

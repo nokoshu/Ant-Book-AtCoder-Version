@@ -13,7 +13,7 @@
 ,10,全探索,高橋くんとお肉,易,完了,"- ",2021/12/4,https://atcoder.jp/contests/arc029/tasks/arc029_1
 ,11,全探索,派閥,普,完了,要,2021/1/10,https://atcoder.jp/contests/abc002/tasks/abc002_4
 ,12,全探索,深さ優先探索,易,完了,-,2021/1/10,https://atcoder.jp/contests/atc001/tasks/dfs_a
-,13,全探索,埋め立て,易,完了,-,,https://atcoder.jp/contests/arc031/tasks/arc031_2
+,13,全探索,埋め立て,易,完了,-,2021/12/5,https://atcoder.jp/contests/arc031/tasks/arc031_2
 ,14,全探索,バウムテスト,,,,,https://atcoder.jp/contests/arc037/tasks/arc037_b
 ,15,全探索,島はいくつある,易,完了,-,2021/1/10,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1160&lang=jp
 ,16,全探索,幅優先探索,易,完了,,2021/1/11,https://atcoder.jp/contests/abc007/tasks/abc007_3
@@ -41,9 +41,9 @@
 ,38,貪欲法,Plane 2N Points,,,,,https://atcoder.jp/contests/abc091/tasks/arc092_a
 ,39,貪欲法,Appleman and Toastman,,,,,http://codeforces.com/contest/462/problem/C
 ,40,ナップサック DP,ナップザック問題,易,完了,-,2021/1/9,http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_B&lang=jp
-,41,ナップサック DP,コンテスト,易,,要,2021/1/9,https://atcoder.jp/contests/tdpc/tasks/tdpc_contest
-,42,ナップサック DP,サイコロ,難,,要,,https://atcoder.jp/contests/tdpc/tasks/tdpc_dice
-,43,ナップサック DP,高橋くんの苦悩,,,,,https://atcoder.jp/contests/abc015/tasks/abc015_4
+,41,ナップサック DP,コンテスト,易,完了,要,2021/1/9,https://atcoder.jp/contests/tdpc/tasks/tdpc_contest
+,42,ナップサック DP,サイコロ,難,完了,要,,https://atcoder.jp/contests/tdpc/tasks/tdpc_dice
+,43,ナップサック DP,高橋くんの苦悩,難,完了,,,https://atcoder.jp/contests/abc015/tasks/abc015_4
 ,44,ナップサック DP,暑い日々,難,完了,-,2021/1/11,https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d
 ,45,ナップサック DP,E数,,,,,https://atcoder.jp/contests/tdpc/tasks/tdpc_number
 ,46,ナップサック DP,ナップサック問題,,,,,https://atcoder.jp/contests/abc032/tasks/abc032_d
